@@ -2,23 +2,8 @@
 
 ---
 
-### **Capa**
 
-*   **Nome do Integrante 1:** (Preencher)
-*   **Matrícula do Integrante 1:** (Preencher)
-    *   (Adicionar todos os integrantes)
-
----
-
-### **1. Papéis da Equipe**
-
-*   **Gerente de Projeto e Documentação:** (Nome de um integrante)
-*   **Desenvolvedor(a) Principal:** (Nome de um integrante)
-*   **Engenheiro(a) de Qualidade e Testes:** (Nome de um integrante)
-    *   (Ajustar papéis conforme o tamanho da equipe)
-
-
-### **2. Arquitetura do Projeto**
+### **1. Arquitetura do Projeto**
 
 O projeto foi estruturado seguindo o princípio da **Separação de Responsabilidades**, dividindo a aplicação em componentes lógicos e independentes.
 
@@ -29,7 +14,7 @@ O projeto foi estruturado seguindo o princípio da **Separação de Responsabili
 
 ---
 
-### **3. Requisitos Funcionais (RF)**
+### **2. Requisitos Funcionais (RF)**
 
 *   **RF01:** O sistema deve ser capaz de filtrar e retornar todos os pontos de descarte de um bairro específico.
     *   **Implementado em:** `src/core.py`, função `filtrar_pontos_por_bairro()`.
@@ -51,7 +36,7 @@ O projeto foi estruturado seguindo o princípio da **Separação de Responsabili
 
 ---
 
-### **4. Requisitos Não Funcionais (RNF)**
+### **3. Requisitos Não Funcionais (RNF)**
 
 #### RNF01 - Interface de Usuário
 - **Descrição:** O sistema deverá fornecer uma interface de linha de comando intuitiva e amigável.
@@ -100,7 +85,7 @@ O projeto foi estruturado seguindo o princípio da **Separação de Responsabili
 
 ---
 
-### **5. Mapeamento dos Conceitos de Programação Funcional**
+### **4. Mapeamento dos Conceitos de Programação Funcional**
 
 *   **Função de Alta Ordem:** Aplicado na função `atualizar_status_pontos`.
 *   **Função Lambda:** Usada para fornecer a lógica de atualização para `atualizar_status_pontos`.
@@ -109,7 +94,7 @@ O projeto foi estruturado seguindo o princípio da **Separação de Responsabili
 
 ---
 
-### **6. Guia de Uso e Execução**
+### **5. Guia de Uso e Execução**
 
 **Pré-requisitos:**
 *   Python 3.
