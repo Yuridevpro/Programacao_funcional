@@ -1,6 +1,6 @@
 # Mapeamento e Monitoramento de Pontos de Descarte Irregular de Lixo
 
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)![Python](https://img.shields.io/badge/Python-3.x-blue)![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 ---
 
